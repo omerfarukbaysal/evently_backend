@@ -31,7 +31,7 @@ function getEvents(req, res) {
       });
     } else {
       const { Items } = data;
-      res.send(Items);
+      res.send(Items.sort((a, b) => b.startDate.localeCompare(a.startDate)));
     }
   }
 }
