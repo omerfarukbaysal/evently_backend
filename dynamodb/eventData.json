@@ -1,0 +1,74 @@
+[
+  {
+    "id":"d8c351cd-b457-46ef-8e2d-e72c45402404",
+    "title": "Spring Art Festival",
+    "description": "Join us for a weekend of art and music to celebrate the arrival of spring!",
+    "startDate": "2023-04-15T17:00:00.000Z",
+    "place": "Central Park, New York City",
+    "picture": "https://media.discordapp.net/attachments/1087371651861184625/1087372030627823677/filename.png"
+  },
+  {
+    "id":"fc32ceca-aff6-40c3-b42b-33c9460aaf31",
+    "title": "International Food Festival",
+    "description": "Experience the world's best cuisine in one place! Come hungry and leave happy!",
+    "startDate": "2023-05-20T14:00:00.000Z",
+    "place": "City Market, San Francisco",
+    "picture": "https://media.discordapp.net/attachments/1087371651861184625/1087372303685402704/filename.png"
+  },
+  {
+    "id":"c44e2c9e-a86e-4d6b-838f-027bdece1d6b",
+    "title": "Tech Conference",
+    "description": "Join top tech leaders from around the world for two days of talks, workshops, and networking!",
+    "startDate": "2023-06-10T20:00:00.000Z",
+    "place": "Moscone Center, San Francisco",
+    "picture": "https://media.discordapp.net/attachments/1087371651861184625/1087374785656389702/filename.png"
+  },
+  {
+    "id":"9aeb1cfc-a249-4f72-b1af-0e450e5e25f4",
+    "title": "Summer Music Festival",
+    "description": "Get ready for a weekend of non-stop music, food, and fun in the sun!",
+    "startDate": "2023-07-15T16:00:00.000Z",
+    "place": "Grant Park, Chicago",
+    "picture": "https://media.discordapp.net/attachments/1087371651861184625/1087375077898727504/filename.png"
+  },
+  {
+    "id":"8b3d9f0a-ef03-4d19-9b6a-838ba7177f91",
+    "title": "Annual Charity Walk",
+    "description": "Join us in raising money for a good cause! Walk with friends, family, and colleagues to make a difference!",
+    "startDate": "2023-08-20T09:00:00.000Z",
+    "place": "Central Park, New York City",
+    "picture": "https://media.discordapp.net/attachments/1087371651861184625/1087375301140566127/filename.png"
+  },
+  {
+    "id":"3f22ff92-4609-47e3-ac22-453bf41517ba",
+    "title": "Fall Wine Tasting",
+    "description": "Sample the season's best wines and enjoy delicious food pairings in a beautiful vineyard setting!",
+    "startDate": "2023-09-15T18:00:00.000Z",
+    "place": "Napa Valley, California",
+    "picture": "https://media.discordapp.net/attachments/1087371651861184625/1087375396581941318/filename.png"
+  },
+  {
+    "id":"18b524da-bbb2-4dc8-be7a-5d066cefdfa3",
+    "title": "Halloween Horror Nights",
+    "description": "Experience the scariest haunted houses and spooky attractions at the world-famous Halloween event!",
+    "startDate": "2023-10-01T21:00:00.000Z",
+    "place": "Universal Studios, Orlando",
+    "picture": "https://media.discordapp.net/attachments/1087371651861184625/1087375814393352233/filename.png"
+  },
+  {
+    "id":"251f68c5-d0a4-4195-a8c4-866fe7ee9bc5",
+    "title": "Thanksgiving Parade",
+    "description": "Watch the biggest parade of the year with giant balloons, marching bands, and celebrity performers!",
+    "startDate": "2023-11-23T15:00:00.000Z",
+    "place": "Macy's Herald Square, New York City",
+    "picture": "https://media.discordapp.net/attachments/1087371651861184625/1087376180900007936/filename.png"
+  },
+  {
+    "id":"0daa0a2e-e60d-439c-b34b-8025fbb44901",
+    "title": "Winter Wonderland",
+    "description": "Experience the magic of the holiday season with ice skating, snow tubing, and festive activities for all ages!",
+    "startDate": "2023-12-15T16:00:00.000Z",
+    "place": "Millennium Park",
+    "picture": "https://media.discordapp.net/attachments/1087371651861184625/1087376645696008222/filename.png"
+  }  
+]
