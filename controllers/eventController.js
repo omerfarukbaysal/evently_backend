@@ -2,11 +2,11 @@ var AWS = require("aws-sdk");
 var crypto = require("crypto");
 const { getYesterday, getNextDay, isISODate } = require("../utils/dateUtils");
 var docClient = new AWS.DynamoDB.DocumentClient();
-require("dotenv").config();
 
 function getEvents(req, res) {
   var params = {
     TableName: "Events",
+    IndexName: "startDate-index",
   };
   // If there is a 'highlighted' key in query params, we will filter events with start date today
   if (req.query.highlighted) {
